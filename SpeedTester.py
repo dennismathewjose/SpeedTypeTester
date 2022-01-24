@@ -3,9 +3,6 @@ from curses import wrapper
 import time
 import random
 
-
-Time = 60
-
 #introduction screen
 def intro(stdscr):
 
